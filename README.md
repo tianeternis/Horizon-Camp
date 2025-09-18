@@ -1,7 +1,6 @@
 # Horizon Camp - Camping Gear E-commerce Website
 
-**Horizon Camp** is an e-commerce website specializing in providing camping and outdoor equipment.  
-The system integrates **machine learning** to build a **smart product recommendation feature**, helping users easily search for and select products that best match their needs.
+**Horizon Camp** is an e-commerce website specializing in providing camping and outdoor equipment. The system integrates **machine learning** to build a **smart product recommendation feature**, helping users easily search for and select products that best match their needs.
 
 ## 🚀 Features
 
